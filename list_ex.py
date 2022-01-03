@@ -1,0 +1,10 @@
+l=[10,20,30,40]
+l1=[20,30,40]
+l2=l+l1
+print(l2)
+l.insert(0,60)
+print(l)
+l1.append(35)
+print(l1)
+l.remove(30)
+print(l)
